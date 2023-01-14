@@ -1,16 +1,43 @@
-### Hi there 👋
+##  Olá! Eu sou o Matheus Freitas Dionisio Câmara 👋
 
-<!--
-**matheusfdc-7/matheusfdc-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hojé trabalho na área de Logística.
+- 🌱 Estudando Python, JavaScript, HTML , CSS , TypeScript é Java.
+- 📫 How to reach me: matheusdmc_games@hotmail.com
+- ⚡ Fun fact: Formado em Analise e Desenvolvimento de Sistemas(ads).
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/matheusfdc-7">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdc-7&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdc-7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias
+<div style="display: inline_block"><br>
+  <img alingn="center" alt="math-Python" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  <img alingn="center" alt="math-Jv" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alingn="center" alt="math-"Js" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+  <img alingn="center" alt="math-"Ts" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alingn="center" alt="math-"HTML" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
+  <img alingn="center" alt="math-"CSS" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
+  <img alingn="center" alt="math-"Tl" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img alingn="center" alt="math-"git" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alingn="center" alt="math-"react" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alingn="center" alt="math-"node" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">          
+</div>
+
+## Estou aprendendo
+<div style="display: inline_block"><br>
+  <img alingn="center" alt="math-"Js" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alingn="center" alt="math-Jv" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img alingn="center" alt="math-"Ts" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alingn="center" alt="math-"Tl" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img alingn="center" alt="math-"react" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alingn="center" alt="math-"node" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+</div>  
+
+## Contatos:
+<div>
+  <a href="https://www.linkedin.com/in/matheus-freitas-30890024b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+  <a href = "mailto:contatomatheusfdc00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/matheusfd0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
