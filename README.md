@@ -5,11 +5,6 @@
 - 📫 How to reach me: matheusdmc_games@hotmail.com
 - ⚡ Fun fact: Formado em Analise e Desenvolvimento de Sistemas(ads).
 
-<div>
-<a href="https://github.com/matheusfdc-7">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfdc-7&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfdc-7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ## Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
