@@ -1,9 +1,9 @@
 ##  Olá! Eu sou o Matheus Freitas Dionisio Câmara 👋
 
-- 🔭 Hojé trabalho na área de Logística.
-- 🌱 Estudando Python, JavaScript, HTML , CSS , TypeScript é Java.
-- 📫 How to reach me: matheusdmc_games@hotmail.com
-- ⚡ Fun fact: Formado em Analise e Desenvolvimento de Sistemas(ads).
+-  Hojé trabalho na área de Logística.
+-  Estudando Python, JavaScript, HTML , CSS , TypeScript é Java.
+-  contato: matheusdmc_games@hotmail.com
+-  Formado em Analise e Desenvolvimento de Sistemas(ads).
 
 
 ## Ferramentas e Tecnologias
