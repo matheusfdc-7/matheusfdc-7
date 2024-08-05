@@ -14,7 +14,6 @@
   <img alingn="center" alt="math-"Ts" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alingn="center" alt="math-"HTML" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
   <img alingn="center" alt="math-"CSS" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
-  <img alingn="center" alt="math-"Tl" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img alingn="center" alt="math-"git" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alingn="center" alt="math-"react" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alingn="center" alt="math-"node" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">          
@@ -25,7 +24,6 @@
   <img alingn="center" alt="math-"Js" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alingn="center" alt="math-Jv" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img alingn="center" alt="math-"Ts" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alingn="center" alt="math-"Tl" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img alingn="center" alt="math-"react" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alingn="center" alt="math-"node" height="30" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>  
