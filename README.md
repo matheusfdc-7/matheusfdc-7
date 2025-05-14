@@ -1,6 +1,6 @@
 ##  Olá! Eu sou o Matheus Freitas Dionisio Câmara 👋
 
--  Estudando Python, JavaScript, HTML , CSS , TypeScript é Java.
+-  Estudando Python, JavaScript, HTML , CSS é TypeScript.
 -  contato: matheusdmc_games@hotmail.com
 -  Formado em Analise e Desenvolvimento de Sistemas(ads).
 
